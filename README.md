@@ -4,9 +4,12 @@
 <a href="https://github.com/Sant268">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant268&hide=html,Jupyter Notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <!--
 **Sant268/Sant268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+______________________________________________________________________________________________________________________________________________
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
